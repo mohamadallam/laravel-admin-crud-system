@@ -3,6 +3,8 @@
 
 > composer install
 
+> **WARNING**: modify .env file by adding your sql database configuration
+
 > php artisan key:generate
 
 > php artisan migrate
