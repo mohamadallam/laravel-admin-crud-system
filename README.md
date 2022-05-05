@@ -20,3 +20,6 @@
 #
 > **WARNING**: if you setup this project on  your local machine, open  php.ini and make sure to enable 
 ;extension=xsl by removing the semicolon , 
+
+# Api
+> http://127.0.0.1:8000/api/orders
