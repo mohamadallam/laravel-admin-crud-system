@@ -9,4 +9,4 @@
 #
 > php artisan db:seed
 
-> **WARNING**: if you setup this project on  your local machine make sure to enable ;extension=xsl by removing semicolon in php.ini
+> **WARNING**: if you setup this project on  your local, open  php.ini and  machine make sure to enable ;extension=xsl by removing the semicolon
